@@ -1,5 +1,9 @@
 # React Native Fingerprint Scanner
 
+# Fork
+This project is a fork of [react-native-fingerprint-scanner](https://github.com/hieuvp/react-native-fingerprint-scanner) which fixes android build 
+
+
 # Looking for Maintainers
 
 This project is no longer actively maintained by the previous maintainers.
